@@ -13,6 +13,33 @@ horizontal: false
 <div class="row mt-3 align-items-center">
     <!-- Video Section -->
     <div class="col-md-6">
+        {% include video.liquid path="assets/video/ROMGRL.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <!-- Caption Section -->
+    <div class="col-md-6">
+        <div class="caption" style="text-align: left;">
+            <p>Using a Reduced-Order Model (ROM) to generate reference data that guides a humanoid robot to achieve the desired walking gait.</p>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-3 align-items-center">
+    <!-- Video Section -->
+    <div class="col-md-6">
+        {% include video.liquid path="assets/video/VSLAM.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <!-- Caption Section -->
+    <div class="col-md-6">
+        <div class="caption" style="text-align: left;">
+            <p>VSLAM-based system detects ArUco markers and guides navigation toward their centroid.</p>
+        </div>
+    </div>
+</div>
+
+
+<div class="row mt-3 align-items-center">
+    <!-- Video Section -->
+    <div class="col-md-6">
         {% include video.liquid path="assets/video/superheavylanding.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <!-- Caption Section -->
