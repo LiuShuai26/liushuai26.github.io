@@ -16,6 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+I built an io game using Claude Code in just 3 days. Try it now: [inksnake.io](https://inksnake.io)
+
 I am a Machine Learning Engineer and Researcher specializing in reinforcement learning, Scalable AI systems, and AI-driven simulation systems. My work spans from building high-performance distributed RL frameworks and AI-native game engines to publishing research on humanoid locomotion.
 
 I am also a volunteer contributor to the Hazel Engine, where I support the development of its upcoming machine-learning module.
