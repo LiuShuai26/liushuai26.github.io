@@ -2,7 +2,7 @@
 layout: page
 title: Beast Engine
 description: AI-Native Game Engine
-img: assets/img/BeastLogo.jpg
+img: assets/img/BeastLogo.png
 importance: 1
 category: Personal
 related_publications: false
