@@ -16,16 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I built an io game using Claude Code in just 3 days. Try it now: [inksnake.io](https://inksnake.io)
+I am a Machine Learning Engineer specializing in reinforcement learning, distributed training systems, and simulation-driven AI. My work focuses on high-performance RL infrastructure, AI-native game engines, and learning-based control for humanoids and game agents.
 
-I am a Machine Learning Engineer and Researcher specializing in reinforcement learning, Scalable AI systems, and AI-driven simulation systems. My work spans from building high-performance distributed RL frameworks and AI-native game engines to publishing research on humanoid locomotion.
-
-I am also a volunteer contributor to the Hazel Engine, where I support the development of its upcoming machine-learning module.
+Recent projects include [BeaStrand](https://github.com/LiuShuai26/beastrand), a distributed RL training framework with async shared-memory architecture, and [inksnake.io](https://inksnake.io), an io game I built in three days using Claude Code.
 
 ## Interests
-* Machine Learning
 * Reinforcement Learning
-* Robotics
 * Game AI
-* Software Development
-* Game Development
+* Distributed Training Systems
+* Simulation-Driven AI
+* AI-Native Game Engines
